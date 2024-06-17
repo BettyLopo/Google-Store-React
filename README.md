@@ -13,7 +13,7 @@
 - [Funcionalidades 🛠️](#funcionalidades-)
 - [Tecnologías Utilizadas 🔧](#tecnologías-utilizadas-)
 - [Contribución 🤝](#contribución-)
-- [Autores 👩‍💻](#autores-)
+- [Developers 👩‍💻](#autores-)
 - [Capturas de Pantalla 🖼️](#capturas-de-pantalla-)
 - [Licencia 📜](#licencia-)
 
