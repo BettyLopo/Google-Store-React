@@ -2,20 +2,20 @@
 
 ## Índice
 
-- [**Descripción 📝**](#descripción)
-- [**Instalación ⚙️**](#instalación)
-  - [Requisitos previos](#requisitos-previos)
-  - [Pasos para instalar el proyecto](#pasos-para-instalar-el-proyecto)
-- [**Uso 🚀**](#uso)
-  - [Cómo ejecutar el proyecto](#cómo-ejecutar-el-proyecto)
-  - [Ejemplos de uso](#ejemplos-de-uso)
-- [**Estructura del Proyecto 📂**](#estructura-del-proyecto)
-- [**Funcionalidades 🛠️**](#funcionalidades)
-- [**Tecnologías Utilizadas 💻**](#tecnologías-utilizadas)
-- [**Contribución 🤝**](#contribución)
-- [**Developers 👩‍💻**](#autores)
-- [**Capturas de Pantalla 🖼️**](#capturas-de-pantalla)
-- [**Licencia 📜**](#licencia)
+- [Descripción 📝](#descripción-)
+- [Instalación ⚙️](#instalación-)
+  - [Requisitos previos](#requisitos-previos-)
+  - [Pasos para instalar el proyecto](#pasos-para-instalar-el-proyecto-)
+- [Uso 🚀](#uso-)
+  - [Cómo ejecutar el proyecto](#cómo-ejecutar-el-proyecto-)
+  - [Ejemplos de uso](#ejemplos-de-uso-)
+- [Estructura del Proyecto 📂](#estructura-del-proyecto-)
+- [Funcionalidades 🛠️](#funcionalidades-)
+- [Tecnologías Utilizadas 🔧](#tecnologías-utilizadas-)
+- [Contribución 🤝](#contribución-)
+- [Autores 👩‍💻](#autores-)
+- [Capturas de Pantalla 🖼️](#capturas-de-pantalla-)
+- [Licencia 📜](#licencia-)
 
 ## Descripción 📝
 
